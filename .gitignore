@@ -1,0 +1,13 @@
+# 只忽略机器临时文件、凭据及 Git 导出包；截图、角色及学习成果均纳入版本管理。
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*
+*.tmp
+*.swp
+*.bundle
+.env
+.env.*
+!.env.example
+__pycache__/
+*.pyc
