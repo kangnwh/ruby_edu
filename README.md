@@ -4,6 +4,8 @@
 
 本目录已初始化为独立 Git 仓库。跨电脑使用见[跨电脑继续](跨电脑继续.md)；新会话先读[协作状态](协作状态.md)。四个角色、原始上传截图、模板与学习成果均随提交保存，聊天历史及运行中的 subagent 状态由文件交接说明承接。
 
+远程仓库：[kangnwh/ruby_edu](https://github.com/kangnwh/ruby_edu)。在其他电脑执行 `git clone https://github.com/kangnwh/ruby_edu.git 错题本`，然后打开克隆的目录，按“跨电脑继续.md”恢复团队。
+
 ## 角色
 
 | 角色 | 职责 | 交付目录 |
